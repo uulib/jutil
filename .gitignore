@@ -4,3 +4,7 @@
 **/.classpath
 /bin/
 */bin/
+
+# Gradle Cache & Build
+**/.gradle/
+**/build/
